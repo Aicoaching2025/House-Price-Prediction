@@ -43,7 +43,7 @@ The goal is to **predict house prices** based on various features that typically
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/aicoaching2025/house-price-prediction.git
    cd house-price-prediction
 
 - 📈 Visualizations Included
