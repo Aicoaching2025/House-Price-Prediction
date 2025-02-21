@@ -20,7 +20,7 @@ The goal is to **predict house prices** based on various features that typically
 
 ---
 
-🚀 ## Project Steps
+ ## 🚀 Project Steps
 
 - Generate a synthetic dataset.
 - Perform exploratory data analysis (EDA) and visualize the data.
