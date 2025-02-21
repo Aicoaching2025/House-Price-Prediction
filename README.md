@@ -21,6 +21,15 @@ The goal is to **predict house prices** based on various features that typically
 ---
 
 ## 📝 Project Structure
+📂 house-price-prediction
+├── 📄 house_price_prediction.py  # Main Python script with data generation, EDA, model training, and visualization
+├── 📄 README.md                  # Project documentation
+├── 📄 requirements.txt           # List of Python dependencies
+└── 📂 images                     # Folder for saving generated visualization plots (optional)
+    ├── 📄 price_distribution.png
+    ├── 📄 size_vs_price.png
+    └── 📄 actual_vs_predicted.png
+
 
 ---
 
