@@ -46,12 +46,11 @@ The goal is to **predict house prices** based on various features that typically
    git clone https://github.com/your-username/house-price-prediction.git
    cd house-price-prediction
 
-📈 Visualizations Included
-
-📊 Distribution of House Prices
-📏 Relationship between Size and Price
-🧩 Pairwise plots of all features
-🎯 Actual vs Predicted Price scatter plot
+- 📈 Visualizations Included
+- 📊 Distribution of House Prices
+- 📏 Relationship between Size and Price
+- 🧩 Pairwise plots of all features
+- 🎯 Actual vs Predicted Price scatter plot
 
 🔥 Future Improvements
 
