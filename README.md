@@ -22,10 +22,10 @@ The goal is to **predict house prices** based on various features that typically
 
 🚀 Project Steps
 
-Generate a synthetic dataset.
-Perform exploratory data analysis (EDA) and visualize the data.
-Build a Linear Regression model.
-Evaluate and visualize the model’s performance.
+- Generate a synthetic dataset.
+- Perform exploratory data analysis (EDA) and visualize the data.
+- Build a Linear Regression model.
+- Evaluate and visualize the model’s performance.
 
 ---
 
