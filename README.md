@@ -1,7 +1,7 @@
 # 🏡 House Price Prediction using Machine Learning
 
 ## 📊 Project Overview
-This project focuses on predicting house prices using a **Linear Regression** model. The dataset is synthetically generated to simulate realistic housing data. Features like house size, number of bedrooms, age, distance from the city center, and location rating are considered.
+This project focuses on predicting house prices using a **Linear Regression** model. The dataset is synthetically generated to simulate realistic housing data. Features like house size, number of bedrooms, age, distance from the city center, and location rating are analyzed in this repository.
 
 ---
 
